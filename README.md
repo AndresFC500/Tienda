@@ -29,7 +29,7 @@ Este es el backend de una aplicación para administrar una tienda. Permite regis
 
 1. Clona el proyecto o descomprime los archivos.
 2. Abre en tu IDE (IntelliJ, Eclipse, etc.).
-3. Ejecuta la clase `TiendaApplication.java`.
+3. Ejecuta la clase `TiendaApplication`.
 4. El servidor estará disponible en: `http://localhost:8080`
 
 ## 📁 Estructura
