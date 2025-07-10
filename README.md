@@ -32,6 +32,15 @@ Este es el backend de una aplicación para administrar una tienda. Permite regis
 3. Ejecuta la clase `TiendaApplication`.
 4. El servidor estará disponible en: `http://localhost:8080`
 
-## 📁 Estructura
+## 📁 Instrucciones para la construcción
+
+1. Clona este repositorio en tu máquina local.
+   ```bash
+   https://github.com/AndresFC500/Tienda.git
+    ```
+2. Compila y empaqueta el proyecto utilizando Maven.
+   ```bash
+   mvn clean package
+    ```
 
 
